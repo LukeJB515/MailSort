@@ -8,21 +8,33 @@ namespace LetterOpener
 {
     public class MailRepository
     {
-        public IEnumerable<MailItem> GetItem()
+        public IEnumerable<MailItem> GetMail()
         {
             return new List<MailItem>
             {
                 new MailItem
                 {
-
+                    //Sender = "",
+                    //Subject = "",
+                    //ReceivedDate = DateTime.Today.AddDays(-1),
+                    //IsInvoice = false,
+                    //Priority = MailPriority.Normal
                 },
                 new MailItem
                 {
-
+                    //Sender = "",
+                    //Subject = "",
+                    //ReceivedDate = DateTime.Today.AddDays(-1),
+                    //IsInvoice = false,
+                    //Priority = MailPriority.Normal
                 },
                 new MailItem
                 {
-
+                    //Sender = "",
+                    //Subject = "",
+                    //ReceivedDate = DateTime.Today.AddDays(-1),
+                    //IsInvoice = false,
+                    //Priority = MailPriority.Normal
                 }
             };
         }
