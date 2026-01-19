@@ -12,7 +12,18 @@ namespace LetterOpener
         {
             return new List<MailItem>
             {
+                new MailItem
+                {
 
+                },
+                new MailItem
+                {
+
+                },
+                new MailItem
+                {
+
+                }
             };
         }
     }
