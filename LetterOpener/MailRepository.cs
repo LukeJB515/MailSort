@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace LetterOpener
 {
-    public class MailPriority
+    public class MailRepository
     {
-        //public IEnumerable<MailItem> GetItem()
+        public IEnumerable<MailItem> GetItem()
+        {
+            return new List<MailItem>
+            {
+
+            };
+        }
     }
 }

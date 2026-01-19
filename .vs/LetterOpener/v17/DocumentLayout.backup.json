@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\mailsorter\\letteropener\\letteropener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|solutionrelative:letteropener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\mailsorter\\letteropener\\letteropener\\consoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|solutionrelative:letteropener\\consoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\mailsorter\\letteropener\\letteropener\\mailprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|solutionrelative:letteropener\\mailprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\mailsorter\\letteropener\\letteropener\\mailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|solutionrelative:letteropener\\mailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\mailsorter\\letteropener\\letteropener\\mailitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8386246-56FF-47F6-A875-66FB5E964BB5}|LetterOpener\\LetterOpener.csproj|solutionrelative:letteropener\\mailitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsolePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\ConsolePrinter.cs",
+              "RelativeDocumentMoniker": "LetterOpener\\ConsolePrinter.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\ConsolePrinter.cs",
+              "RelativeToolTip": "LetterOpener\\ConsolePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:21:33.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailPrintService.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\MailPrintService.cs",
+              "RelativeDocumentMoniker": "LetterOpener\\MailPrintService.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\MailPrintService.cs",
+              "RelativeToolTip": "LetterOpener\\MailPrintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:20:43.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\MailRepository.cs",
+              "RelativeDocumentMoniker": "LetterOpener\\MailRepository.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\MailRepository.cs",
+              "RelativeToolTip": "LetterOpener\\MailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:17:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailItem.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\MailItem.cs",
+              "RelativeDocumentMoniker": "LetterOpener\\MailItem.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\MailItem.cs",
+              "RelativeToolTip": "LetterOpener\\MailItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:11:58.949Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "LetterOpener\\Program.cs",
               "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\MailSorter\\LetterOpener\\LetterOpener\\Program.cs",
               "RelativeToolTip": "LetterOpener\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T21:54:23.251Z",
               "EditorCaption": ""
