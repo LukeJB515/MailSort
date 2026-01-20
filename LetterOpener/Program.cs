@@ -14,12 +14,13 @@ namespace LetterOpener
             var printService = new MailPrintService();
             var printer = new ConsolePrinter();
 
-            var mail = repository.GetMail();
-            var printQueue = printService.BuildPrintQueue(mail);
+            var mailItems = repository.GetMail();
+            var printQueue = printService.BuildPrintQueue(mailItems);
 
             printer.PrintSummary(printQueue);
 
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine();
+            Console.WriteLine("Processing complete. Press any key to exit.");
             Console.ReadKey();
         }
     }
