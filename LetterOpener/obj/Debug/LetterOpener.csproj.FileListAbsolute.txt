@@ -1,0 +1,7 @@
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\bin\Debug\LetterOpener.exe.config
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\bin\Debug\LetterOpener.exe
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\bin\Debug\LetterOpener.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\obj\Debug\LetterOpener.csproj.AssemblyReference.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\obj\Debug\LetterOpener.csproj.CoreCompileInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\obj\Debug\LetterOpener.exe
+C:\Users\lukee\OneDrive\Desktop\Console Apps\MailSorter\LetterOpener\LetterOpener\obj\Debug\LetterOpener.pdb
